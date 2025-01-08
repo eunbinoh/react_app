@@ -6,6 +6,7 @@
 - typescript 5.6.2
 
 ## FSD
+- feautres sliced design
 
 ## library
 - zustand
