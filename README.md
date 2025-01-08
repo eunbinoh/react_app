@@ -1,11 +1,14 @@
 # History
 
-# created
+## version
 - vite 6.0.5
 - react 18.3.1
 - typescript 5.6.2
 
-# add library
+## FSD
+
+## library
+- zustand
 - eslint  
 - @typescript-eslint/eslint-plugin @typescript-eslint/parser
 - prettier
